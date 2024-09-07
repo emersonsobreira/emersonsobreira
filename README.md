@@ -62,13 +62,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=emersonsobreira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/emersonsobreira/emersonsobreira/output/snake.svg" alt="Snake animation" />
 
 ###
 
