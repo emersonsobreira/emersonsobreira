@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,75:0D1117,100:161B22&height=180&section=header&text=Emerson%20Sobreira&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20&descColor=8B949E&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,75:0D1117,100:161B22&height=180&section=header&text=Emerson%20Sobreira&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descSize=20&descColor=8B949E&animation=twinkling" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Full+Stack+Developer+apaixonado;Back-end+%7C+Front-end+%7C+Banco+de+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Full+Stack+Developer;Back-end+%7C+Front-end+%7C+Banco+de+Dados;Computer+Vision+%7C+Transfer+Learning;IA+aplicada+%C3%A0+Sustentabilidade+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,6 +19,7 @@
 - 🎓 Técnico em Informática e Graduado em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor **Full Stack** apaixonado por construir soluções completas e bem estruturadas
 - 🚀 Experiência com desenvolvimento **Front-end e Back-end**, do banco de dados à interface
+- 🤖 Desenvolvedor de soluções com **Inteligência Artificial** aplicada a problemas reais
 - 🛠️ Trabalho com tecnologias como **Ruby, Node.js, Angular, Java, PostgreSQL** e muito mais
 - 🌱 Em constante evolução — sempre aprendendo novas ferramentas e boas práticas
 - 📍 Brasil 🇧🇷
@@ -57,6 +58,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
 </div>
 
+<br/>
+
+### 🤖 Inteligência Artificial & Machine Learning
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="40" title="Streamlit" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="40" title="MobileNetV2 Transfer Learning" />
+</div>
+
+---
+
+## 🌿 Projeto em Destaque — IA & Sustentabilidade
+
+<div align="center">
+
+```
+🗑️ Classificador de Lixo Reciclável com Inteligência Artificial
+```
+
+</div>
+
+| | |
+|---|---|
+| 🧠 **Modelo** | MobileNetV2 com Transfer Learning (pré-treinado no ImageNet) |
+| 🗂️ **Dataset** | 15.500 imagens · 12 categorias de resíduos |
+| 🎯 **Acurácia** | 81% após fine-tuning |
+| 🌐 **App Web** | Câmera ao vivo, upload de foto, top 3 resultados e dicas de descarte |
+| 🛠️ **Stack** | Python · TensorFlow · Keras · Streamlit |
+| 🌱 **Impacto** | IA aplicada à sustentabilidade e reciclagem correta |
+
+> Modelo de visão computacional treinado com Transfer Learning sobre **15.500 imagens** em **12 categorias** de resíduos (vidro, metal, plástico, papel, bateria, roupa etc.) com app web funcional e demo online.
+
 ---
 
 ## 📊 GitHub Analytics
@@ -81,9 +117,11 @@
 
 <div align="center">
 
-[![sysroupas](https://github-readme-stats.vercel.app/api/pin/?username=emersonsobreira&repo=sysroupas&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&icon_color=58A6FF)](https://github.com/emersonsobreira/sysroupas)
+[![sysroupas](https://gh-card.dev/repos/emersonsobreira/sysroupas.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/sysroupas)
 &nbsp;
-[![Rotina-API](https://github-readme-stats.vercel.app/api/pin/?username=emersonsobreira&repo=Rotina-API&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&icon_color=58A6FF)](https://github.com/emersonsobreira/Rotina-API)
+[![Rotina-API](https://gh-card.dev/repos/emersonsobreira/Rotina-API.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/Rotina-API)
+&nbsp;
+[![classificador_lixo_IA](https://gh-card.dev/repos/emersonsobreira/classificador_lixo_IA.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/classificador_lixo_IA)
 
 </div>
 
