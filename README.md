@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,75:0D1117,100:161B22&height=180&section=header&text=Emerson%20Sobreira&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descSize=20&descColor=8B949E&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,75:0D1117,100:161B22&height=180&section=header&text=Emerson%20Sobreira&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=Salesforce%20Developer%20%7C%20Apex%20%7C%20LWC%20%7C%20Java&descAlignY=62&descSize=20&descColor=8B949E&animation=twinkling" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Full+Stack+Developer;Back-end+%7C+Front-end+%7C+Banco+de+Dados;Computer+Vision+%7C+Transfer+Learning;IA+aplicada+%C3%A0+Sustentabilidade+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salesforce+Developer+J%C3%BAnior+%E2%98%81%EF%B8%8F;Apex+%7C+LWC+%7C+SOQL+%7C+Flow+Builder;Java+%7C+Spring+Boot+%7C+PostgreSQL;Estudando+no+Trailhead+todo+dia+%F0%9F%9A%80;Buscando+minha+primeira+vaga+Salesforce)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,82 +16,69 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Técnico em Informática e Graduado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor **Full Stack** apaixonado por construir soluções completas e bem estruturadas
-- 🚀 Experiência com desenvolvimento **Front-end e Back-end**, do banco de dados à interface
-- 🤖 Desenvolvedor de soluções com **Inteligência Artificial** aplicada a problemas reais
-- 🛠️ Trabalho com tecnologias como **Ruby, Node.js, Angular, Java, PostgreSQL** e muito mais
-- 🌱 Em constante evolução — sempre aprendendo novas ferramentas e boas práticas
-- 📍 Brasil 🇧🇷
+- 🎓 Técnico em Informática (UFPI) e Graduação completa em **Análise e Desenvolvimento de Sistemas** (UNOPAR)
+- ☁️ Focado no ecossistema **Salesforce** — Apex, LWC, SOQL e Flow Builder
+- ⚙️ Sólida base em backend com **Java e Spring Boot**, aplicando princípios **SOLID**
+- 🗄️ Experiência com bancos de dados relacionais: **MySQL e PostgreSQL**
+- 📚 Estudo contínuo no **Trailhead** — automação de processos, modelagem de dados e desenvolvimento de aplicações
+- 🌱 Curioso e autodidata: se tem algo novo pra aprender, eu vou atrás
+-  Disponível para trabalho **remoto ou presencial**
 - 📬 Contato: **emersonsobreira528@gmail.com**
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### 🎨 Front-end
+### ☁️ Salesforce
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" title="Salesforce" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" title="Apex" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" title="Lightning Web Components" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" title="SOQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flow_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" title="Flow Builder" />
 </div>
 
 <br/>
 
 ### ⚙️ Back-end
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" title="Ruby" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </div>
 
 <br/>
 
 ### 🗄️ Banco de Dados
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
 </div>
 
 <br/>
 
-### 🤖 Inteligência Artificial & Machine Learning
+### 🎨 Front-end
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="40" title="Streamlit" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="40" title="MobileNetV2 Transfer Learning" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
 </div>
 
 ---
 
-## 🌿 Projeto em Destaque — IA & Sustentabilidade
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-```
-🗑️ Classificador de Lixo Reciclável com Inteligência Artificial
-```
+[![Rotina-API](https://gh-card.dev/repos/emersonsobreira/Rotina-API.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/Rotina-API)
+&nbsp;
+[![sysroupas](https://gh-card.dev/repos/emersonsobreira/sysroupas.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/sysroupas)
+&nbsp;
+[![portfolio](https://gh-card.dev/repos/emersonsobreira/portfolio.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/portfolio)
 
 </div>
-
-| | |
-|---|---|
-| 🧠 **Modelo** | MobileNetV2 com Transfer Learning (pré-treinado no ImageNet) |
-| 🗂️ **Dataset** | 15.500 imagens · 12 categorias de resíduos |
-| 🎯 **Acurácia** | 81% após fine-tuning |
-| 🌐 **App Web** | Câmera ao vivo, upload de foto, top 3 resultados e dicas de descarte |
-| 🛠️ **Stack** | Python · TensorFlow · Keras · Streamlit |
-| 🌱 **Impacto** | IA aplicada à sustentabilidade e reciclagem correta |
-
-> Modelo de visão computacional treinado com Transfer Learning sobre **15.500 imagens** em **12 categorias** de resíduos (vidro, metal, plástico, papel, bateria, roupa etc.) com app web funcional e demo online.
 
 ---
 
@@ -113,20 +100,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![sysroupas](https://gh-card.dev/repos/emersonsobreira/sysroupas.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/sysroupas)
-&nbsp;
-[![Rotina-API](https://gh-card.dev/repos/emersonsobreira/Rotina-API.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/Rotina-API)
-&nbsp;
-[![classificador_lixo_IA](https://gh-card.dev/repos/emersonsobreira/classificador_lixo_IA.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/classificador_lixo_IA)
-
-</div>
-
----
-
 ## 🤝 Vamos nos conectar
 
 <div align="center">
@@ -134,6 +107,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-sobreira-17379427a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonsobreira528@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emersonsobreira)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
 
 </div>
 
