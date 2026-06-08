@@ -66,39 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
 </div>
 
----
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![Rotina-API](https://gh-card.dev/repos/emersonsobreira/Rotina-API.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/Rotina-API)
-&nbsp;
-[![sysroupas](https://gh-card.dev/repos/emersonsobreira/sysroupas.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/sysroupas)
-&nbsp;
-[![portfolio](https://gh-card.dev/repos/emersonsobreira/portfolio.svg?fullname=&link_target=_blank)](https://github.com/emersonsobreira/portfolio)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonsobreira&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonsobreira&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emersonsobreira&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&background=0D1117" />
-
-</div>
-
----
 
 ## 🤝 Vamos nos conectar
 
