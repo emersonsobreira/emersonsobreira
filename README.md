@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Técnico em Informática (UFPI) e Graduação completa em **Análise e Desenvolvimento de Sistemas** (UNOPAR)
+- 🎓 Técnico em Informática e Graduação completa em **Análise e Desenvolvimento de Sistemas**
 - ☁️ Focado no ecossistema **Salesforce** — Apex, LWC, SOQL e Flow Builder
 - ⚙️ Sólida base em backend com **Java e Spring Boot**, aplicando princípios **SOLID**
 - 🗄️ Experiência com bancos de dados relacionais: **MySQL e PostgreSQL**
@@ -107,7 +107,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-sobreira-17379427a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonsobreira528@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emersonsobreira)
-[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/profile)
 
 </div>
 
